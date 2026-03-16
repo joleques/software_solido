@@ -14,3 +14,4 @@ Neste canal, quero compartilhar as práticas que aplico no meu dia a dia, cases 
 - [Como evoluir o Legado](./evolucao_legado.MD)
 - [Arquitetura baseada em casos de uso](https://github.com/joleques/proposta-arq)
 - [Como equilibrar qualidade, tempo de mercado e garantir a satisfação do cliente](./equilibrio.md)
+- [IA Vai Substituir o Desenvolvedor?](./desenvolvimento-com-ia-papel-do-dev.md)
