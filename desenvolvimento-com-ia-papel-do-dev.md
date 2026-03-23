@@ -1,6 +1,6 @@
 # IA Vai Substituir o Desenvolvedor? A Pergunta Está Errada
 
-Toda semana aparece alguém dizendo que os desenvolvedores têm prazo de validade. Que a IA vai escrever todo o código. Que em cinco anos não haverá mais programadores. É uma narrativa sedutora — principalmente para quem nunca sentou numa reunião de refinamento tentando extrair requisitos de um stakeholder que não sabe o que quer.
+Toda semana aparece alguém dizendo que os desenvolvedores têm prazo de validade. Que a IA vai escrever todo o código. Que em cinco anos não haverá mais programadores. É uma narrativa sedutora, principalmente para quem nunca sentou numa reunião de refinamento tentando extrair requisitos de um stakeholder que não sabe o que quer.
 
 Enquanto isso, no mundo real, desenvolvedores estão usando IA para entregar mais rápido, com mais qualidade e com menos retrabalho. A ferramenta mudou. O papel, não.
 
@@ -22,7 +22,7 @@ Não é uma frase de efeito. É o que já está acontecendo.
 
 Enquanto o debate público gira em torno de "substitui ou não substitui", a academia está fazendo algo mais útil: medindo o impacto real.
 
-Um estudo conduzido pela Universidade de Harvard em parceria com a Procter & Gamble — chamado *"The Cybernetic Teammate"* — colocou 639 profissionais para resolver tarefas de inovação e problem-solving. O resultado: quem usou IA trabalhou **12 a 16% mais rápido**. Mais interessante: um indivíduo com IA performou no mesmo nível de um time inteiro sem IA. Mas — e aqui está a nuance que ninguém gosta de comentar — os **melhores resultados** vieram de **times humanos usando IA juntos**. As soluções que ficaram no top 10% de qualidade vieram dessa combinação.
+Um estudo conduzido pela Universidade de Harvard em parceria com a Procter & Gamble, chamado *"The Cybernetic Teammate"*, colocou 639 profissionais para resolver tarefas de inovação e problem-solving. O resultado: quem usou IA trabalhou **12 a 16% mais rápido**. Mais interessante: um indivíduo com IA performou no mesmo nível de um time inteiro sem IA. Mas, e aqui está a nuance que ninguém gosta de comentar, os **melhores resultados** vieram de **times humanos usando IA juntos**. As soluções que ficaram no top 10% de qualidade vieram dessa combinação.
 
 A IA sozinha não chega lá. Humanos sozinhos, também não. A combinação é o que importa.
 
@@ -34,36 +34,36 @@ Isso não é substituição. É amplificação.
 
 ## O Que Muda na Prática do Dia a Dia
 
-Trabalho com desenvolvimento de software há anos. Já passei por ciclos de hype o suficiente para desconfiar de extremos — tanto do pânico quanto da euforia.
+Trabalho com desenvolvimento de software há anos. Já passei por ciclos de hype o suficiente para desconfiar de extremos, tanto do pânico quanto da euforia.
 
 No meu dia a dia, IA se tornou parte do fluxo de trabalho como o terminal, o debugger ou o Git. Uso agentes de IA para explorar código, gerar testes, esboçar implementações e acelerar tarefas repetitivas. É uma ferramenta poderosa. Mas continua sendo uma ferramenta.
 
-A decisão de qual padrão arquitetural usar, de como dividir bounded contexts, de quando um microsserviço faz sentido ou quando é complexidade prematura — isso continua sendo responsabilidade humana. A IA pode sugerir uma implementação. Mas ela não sabe que o time tem três pessoas, que o deploy é manual, que o banco de dados está no limite ou que o cliente muda de ideia toda sprint.
+A decisão de qual padrão arquitetural usar, de como dividir bounded contexts, de quando um microsserviço faz sentido ou quando é complexidade prematura, isso continua sendo responsabilidade humana. A IA pode sugerir uma implementação. Mas ela não sabe que o time tem três pessoas, que o deploy é manual, que o banco de dados está no limite ou que o cliente muda de ideia toda sprint.
 
 O estudo de Harvard com o BCG cunhou dois termos que descrevem bem como as pessoas estão usando IA na prática:
 
 - **Centauros**: dividem as tarefas. O humano faz o que faz melhor, a IA faz o resto. Existe uma fronteira clara entre os dois.
-- **Ciborgues**: integram a IA em todo o processo. Não há fronteira — humano e máquina trabalham juntos em cada etapa.
+- **Ciborgues**: integram a IA em todo o processo. Não há fronteira, humano e máquina trabalham juntos em cada etapa.
 
-Ambas as abordagens funcionam. O ponto não é *como* você usa, mas *que* você usa — e que você entende o que está fazendo.
+Ambas as abordagens funcionam. O ponto não é *como* você usa, mas *que* você usa, e que você entende o que está fazendo.
 
 ---
 
-## O Dev Não Vai Embora — Mas Vai Mudar
+## O Dev Não Vai Embora, Mas Vai Mudar
 
 Se a IA não vai substituir o desenvolvedor, o que vai acontecer?
 
 Vai haver um enxugamento. E isso já está acontecendo.
 
-Não porque a IA faz o trabalho do dev, mas porque um dev com IA entrega o que antes precisava de dois ou três. As empresas vão precisar de menos pessoas para o mesmo volume de trabalho. Isso não é ficção científica — é aritmética de negócio.
+Não porque a IA faz o trabalho do dev, mas porque um dev com IA entrega o que antes precisava de dois ou três. As empresas vão precisar de menos pessoas para o mesmo volume de trabalho. Isso não é ficção científica, é aritmética de negócio.
 
-Quem não se adaptar tende a ficar para trás. Não por falta de talento, mas por falta de pragmatismo. Eu mesmo demorei a incorporar IA no meu fluxo — resistência é natural. Mas quando vi o impacto na velocidade e na qualidade das entregas, ficou difícil justificar não usar.
+Quem não se adaptar tende a ficar para trás. Não por falta de talento, mas por falta de pragmatismo. Eu mesmo demorei a incorporar IA no meu fluxo, resistência é natural. Mas quando vi o impacto na velocidade e na qualidade das entregas, ficou difícil justificar não usar.
 
 Mas há um outro lado que vale destacar: a IA também está **democratizando** a capacidade de entrega. Os estudos mostram que quem mais se beneficia são os profissionais menos experientes. A IA funciona como um mentor sempre disponível, que não julga perguntas básicas e oferece contexto sob demanda. Isso é poderoso. Juniores com IA estão chegando a níveis de produtividade que antes exigiam anos de experiência.
 
 Isso muda a dinâmica do time? Sem dúvida. Mas não elimina a necessidade de alguém que entenda o domínio, que saiba fazer as perguntas certas, que consiga avaliar se a resposta da IA faz sentido para aquele contexto específico.
 
-Porque no final do dia, o que importa é o problema do cliente resolvido. Com qualidade. Com manutenibilidade. Com um custo que faça sentido. O *como* você chegou lá — se foi digitando cada linha, usando Copilot ou orquestrando agentes — é detalhe de implementação.
+Porque no final do dia, o que importa é o problema do cliente resolvido. Com qualidade. Com manutenibilidade. Com um custo que faça sentido. O *como* você chegou lá, se foi digitando cada linha, usando Copilot ou orquestrando agentes, é detalhe de implementação.
 
 E devs deveriam saber melhor do que ninguém: detalhes de implementação mudam. O problema de negócio, não.
 
