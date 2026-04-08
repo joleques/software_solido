@@ -16,3 +16,4 @@ Neste canal, quero compartilhar as práticas que aplico no meu dia a dia, cases 
 - [Como equilibrar qualidade, tempo de mercado e garantir a satisfação do cliente](./equilibrio.md)
 - [IA Vai Substituir o Desenvolvedor?](./desenvolvimento-com-ia-papel-do-dev.md)
 - [Skills de Agentes de IA em Alta Performance](./skills-de-agentes-ia-em-alta-performance.md)
+- [IA sem método escala confusão](./ia-potencializa-o-que-voce-ja-faz-sem-processo-amplifica-o-caos.md)
